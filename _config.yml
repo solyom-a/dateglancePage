@@ -30,10 +30,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: TimeGlance
-subtitle: Digital Time Complication
+title: DateGlance
+subtitle: Date Complication
 description: >- # this means to ignore newlines until "baseurl:"
-  Apple Watch digital time complication
+  Apple Watch custom date complication
 author: Andras Solyom
 email: contact@solyoma.dev
 avatar: assets/images/avatar.png
